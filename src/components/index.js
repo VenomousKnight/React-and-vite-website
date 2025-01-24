@@ -1,13 +1,13 @@
-import Navbar from "./Navbar";
-import Billing from "./Billing";
-import CardDeal from "./CardDeal";
-import Business from "./Business";
-import Clients from "./Clients";
-import CTA from "./CTA";
-import Stats from "./Stats";
-import Footer from "./Footer";
-import Testimonials from "./Testimonials";
-import Hero from "./Hero";
+import Navbar from "./Navbar.jsx";
+import Billing from "./Billing.jsx";
+import CardDeal from "./CardDeal.jsx";
+import Business from "./Business.jsx";
+import Clients from "./Clients.jsx";
+import CTA from "./CTA.jsx";
+import Stats from "./Stats.jsx";
+import Footer from "./Footer.jsx";
+import Testimonials from "./Testimonials.jsx";
+import Hero from "./Hero.jsx";
 
 export {
     Navbar,
